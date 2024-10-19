@@ -1,15 +1,15 @@
-# Instrucciones de Ejecución
+# Execution Instructions
 
-1. **Descargar Todo**: Descarga todos los archivos necesarios para el proyecto. Es recomendable hacer un git clone debido para una mejor conexión y prevención de problemas al usar codespaces
+1. **Download all**: Download all the files necessary for the project. It is advisable to make a git clone for a better connection and prevention of problems when using codespaces
 
-2. **Ejecutar Archivos de Python**:
-   - Ejecuta los archivos de Python con el siguiente comando:
+2. **Run Python Files**:
+   - Run the Python files with the following command:
      ```bash
      python agent.py retoServer.py
      python agent.py retoServer.py
      ```
 
-3. **Iniciar Unity**:
-   - Abre y corre el proyecto en Unity.
+3. **Start Unity**:
+   - Open and run the project in Unity.
 
-¡Y eso es todo! Sigue estos pasos para configurar y ejecutar el proyecto.
+And that's it! Follow these steps to configure and run the project.
